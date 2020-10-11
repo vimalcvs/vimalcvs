@@ -1,6 +1,5 @@
 
-### Hi there, I'm [Vimal K. Vishwakarma!](https://technovimal.in) 👋  
-Welcome to my Profile's README!
+### Hi there, I'm [Vimal K. Vishwakarma!](https://technovimal.in) 👋 Welcome to my Profile's README!
 ---
 
 <p align="center">
