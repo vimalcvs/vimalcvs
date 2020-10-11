@@ -13,7 +13,7 @@ Welcome to my Profile's README!
     <br>
     I believe in a world where Milkshakes and Coffee can solve any and all kind of problems :grin:
     <br>
-    P.S. I do know that HTML is not a programming language! :v:
+    V.K. I do know that HTML is not a programming language! :v:
   </samp>
 </p>
 
