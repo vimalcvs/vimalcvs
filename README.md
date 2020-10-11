@@ -82,7 +82,7 @@
 
 <div align="center">
 
-<img align="centre" src="https://github.com/vimalcvs/vimalcvs/blob/master/Developer.gif"/>
+<img align="centre" src="https://raw.githubusercontent.com/vimalcvs/vimalcvs/main/Developer.gif"/>
 
 </div>
 
