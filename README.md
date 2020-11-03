@@ -12,7 +12,7 @@
     <br>
     I believe in a world where Milkshakes and Coffee can solve any and all kind of problems :grin:
     <br>
-    V.K. I do know that HTML is not a programming language! :v:
+    I do know that HTML is not a programming language! :v:
   </samp>
 </p>
 
