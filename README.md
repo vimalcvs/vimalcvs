@@ -8,7 +8,7 @@
   <samp>
     I'm Vimal K. Vishwakarma :wave:
     <br>
-    Currently studying in CS, DU Unviersity🏫🎓 !
+    Currently studying in CS, University of Delhi🏫🎓 !
     <br>
     I believe in a world where Milkshakes and Coffee can solve any and all kind of problems :grin:
     <br>
