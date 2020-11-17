@@ -50,7 +50,7 @@
 <br/>
 
 
-- 🔭 I’m currently working on [SoftKey Beta App!](https://github.com/vimalcvs/WhatsApp-Stickers-Emoji-App)
+- 🔭 I’m currently working on [WhatsApp Stickers Emoji App!](https://github.com/vimalcvs/WhatsApp-Stickers-Emoji-App)
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about any tech related stuff or about social or poltical issues.
 - 📫 How to reach me: Through above social media platforms
