@@ -59,6 +59,9 @@
 - ⚡ Fun fact: Showers really do spark creativity.
 - 😅 Another Fun fact: Humans are just one of the estimated 8.7 million species on Earth.
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=vimalcvs&theme=onedark)](https://github.com/vimalcvs)
+
+
 **Languages and Tools:**  
 
 <code><img height="20" src="https://miro.medium.com/max/256/1*Ht1208XXc0MhIIE4e0PHvg.png"></code>
