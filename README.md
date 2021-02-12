@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/57/dd/7b/57dd7be982ce9049be3dc1ddacc100cb.gif" width="30%">
+  <img src="https://www.developeronrent.com/newcss/images/SVG/hire-android-developer.webp" width="30%">
   <br>
   <samp>
     I'm Vimal K. Vishwakarma :wave:
