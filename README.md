@@ -1,10 +1,8 @@
 
-### Hello World!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
-
+### Hello World!&nbsp;
 ---
-
 <p align="center">
-  <img src="https://www.developeronrent.com/newcss/images/SVG/hire-android-developer.webp" width="30%">
+  <img src="https://www.developeronrent.com/newcss/images/SVG/hire-android-developer.webp" width="20%">
   <br>
   <samp>
     I'm Vimal K. Vishwakarma :wave:
