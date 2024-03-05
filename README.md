@@ -24,6 +24,7 @@
     <img src="medium.png" width="100" alt="Medium" />
   </a>
 </p>
+</br>
 
 ## 🛠️ Tech Stack
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -36,6 +37,8 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</br>
 
 ## 📊 GitHub Stats
 <div align="center">
