@@ -1,28 +1,21 @@
+# Hey, I am Vimal <img src="/blob/master/Assets/hi.gif" width="30px" height="30px">
 
-### Hello World!&nbsp;
----
-<p align="center">
-  <img src="https://www.developeronrent.com/newcss/images/SVG/hire-android-developer.webp" width="20%">
-  <br>
-  <samp>
-    I'm Vimal K. Vishwakarma :wave:
-    <br>
-    Currently studying in CS, University of Delhi🏫🎓 !
-    <br>
-    I believe in a world where Milkshakes and Coffee can solve any and all kind of problems :grin:
-    <br>
-    I do know that HTML is not a programming language! :v:
-  </samp>
-</p>
+<img align="right" width="350" src="dev.gif" alt="dev_logo"/>
 
-<br>
-<div align="center">
+## 💫 About
 
-<p align="centre"> <img src="https://komarev.com/ghpvc/?username=vimalcvs&label=Views&color=blue&style=plastic" alt="vimalcvs" /> </p>
-</div>
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+👨‍💻 I'm a professional software developer<br>
+💻 I build cool projects with Kotlin, Java, Android and Spring Boot<br>
+❤️ I'm an active open-source contributor<br>
+🔭 I'm currently working on <a href="https://technovimal.in" target="_blank">MyBlog</a>, a platform to buy/sell digital content and make money with your content<br>
+🤝 I'm looking to collaborate on interesting open-source projects
 
-<div align="center">
+<img src="https://komarev.com/ghpvc/?username=vimalcvs&label=Views&color=blue&style=plastic" alt="vimalcvs" />
+
+
+</br>
+
+## 🌐 Let's connect 
 
 <a href="https://twitter.com/vimalvishwakar6">
   <img align="left" alt="Vimal's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -42,25 +35,14 @@
 <a href="https://www.facebook.com/humtak365">
   <img align="left" alt="Vimal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-</div>
 
 
-<br/>
-<br/>
+</br>
+
+## 🌐 Let's connect 
 
 
-- 🔭 I’m currently working on [WhatsApp Stickers Emoji App!](https://github.com/vimalcvs/WhatsApp-Stickers-Emoji-App)
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me about any tech related stuff or about social or poltical issues.
-- 📫 How to reach me: Through above social media platforms
-- 😄 Pronouns: He/His/Mr
-- ⚡ Fun fact: Showers really do spark creativity.
-- 😅 Another Fun fact: Humans are just one of the estimated 8.7 million species on Earth.
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vimalcvs&theme=onedark)](https://github.com/vimalcvs)
-
-
-**Languages and Tools:**  
+## Languages and Tools: 
 
 <code><img height="20" src="https://miro.medium.com/max/256/1*Ht1208XXc0MhIIE4e0PHvg.png"></code>
 <code><img height="20" src="https://i.pinimg.com/originals/9c/76/5c/9c765c3b37eb5bdf9af0984eef4351dd.jpg"></code>
@@ -88,27 +70,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vimalcvs&hide=php&theme=algolia" />
 </a>
 
+ 
 
-<div align="center">
 
-<img align="centre" src="https://raw.githubusercontent.com/vimalcvs/vimalcvs/main/Developer.gif"/>
-
-</div>
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-
-<!--
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
-<hr style="height:2px;border-width:0;color:gray;background-color:gray">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vimalcvs)]
-
--->
+[![trophy](https://github-profile-trophy.vercel.app/?username=vimalcvs&theme=onedark)](https://github.com/vimalcvs)
