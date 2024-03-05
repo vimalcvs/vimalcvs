@@ -1,19 +1,14 @@
-# Hey, I am Vimal <img src="/blob/master/Assets/hi.gif" width="30px" height="30px">
-
-<img align="right" width="350" src="dev.gif" alt="dev_logo"/>
+# Hey, I am Vimal <img src="hi.gif" width="30px" height="30px">
+<img align="right" src="https://komarev.com/ghpvc/?username=vimalcvs&label=Views&color=blue&style=plastic" alt="vimalcvs" />
 
 ## 💫 About
-
+<img align="right" width="300" src="dev.gif" alt="dev_logo"/>
 👨‍💻 I'm a professional software developer<br>
 💻 I build cool projects with Kotlin, Java, Android and Spring Boot<br>
 ❤️ I'm an active open-source contributor<br>
 🔭 I'm currently working on <a href="https://technovimal.in" target="_blank">MyBlog</a>, a platform to buy/sell digital content and make money with your content<br>
-🤝 I'm looking to collaborate on interesting open-source projects
+🤝 I'm looking to collaborate on interesting open-source projects</br>
 
-<img src="https://komarev.com/ghpvc/?username=vimalcvs&label=Views&color=blue&style=plastic" alt="vimalcvs" />
-
-
-</br>
 
 ## 🌐 Let's connect 
 
@@ -35,7 +30,6 @@
 <a href="https://www.facebook.com/humtak365">
   <img align="left" alt="Vimal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-
 
 </br>
 
