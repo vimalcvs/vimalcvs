@@ -7,7 +7,7 @@
 💻 Skilled in Kotlin, Java, Android, and Spring Boot<br>
 ❤️ Active Open Source Contributor<br>
 🔭 Currently working on <a href="https://technovimal.in" target="_blank">MyBlog</a> - a platform for buying/selling digital content<br>
-🤝 Open to collaborating on interesting open-source projects</br>
+🤝 Open to collaborating on interesting open-source projects</br></br>
 
 ## 🌐 Let's Connect
 <p float="left">
