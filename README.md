@@ -26,7 +26,7 @@
   </a>
   
   <a href="https://technovimal.medium.com" title="Checkout my Medium blog">
-    <img src="medium.svg" width="120" alt="Medium" />
+    <img src="medium.png" width="120" alt="Medium" />
   </a>
 </p>
 </br>
