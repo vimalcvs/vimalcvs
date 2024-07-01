@@ -2,7 +2,7 @@
 <img align="right" src="https://komarev.com/ghpvc/?username=vimalcvs&label=Views&color=blue&style=plastic" alt="vimalcvs" />
 
 ## 💫 About
-<img align="right" width="auto" src="dev.gif" alt="dev_logo" style="max-width: 100%; height: auto;"/>
+<img align="right" width="30%" src="dev.gif" alt="dev_logo" style="max-width: 100%; height: auto;"/>
 👨‍💻 I'm a professional software developer<br>
 💻 I build cool projects with Kotlin, Java, Android and Jetpack Compose<br>
 ❤️ I'm an active open-source contributor<br>
